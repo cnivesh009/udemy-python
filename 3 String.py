@@ -1,6 +1,9 @@
-# Date: 14.07.2019
+# Document  : 3 String.py
+# Created on : 14-07-2019  12:58:31 AM
+# Author       : Nivesh-GC
+
 # Udemy: Complete Python BootCamp
-# Last Edited: 15.07.2019
+
 print('******Various forms of writing String*******\n')
 print('1.   hello')
 print("2.   hello")
