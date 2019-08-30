@@ -1,8 +1,11 @@
-# Date: 13.07.2019
+# Document  : 1 HelloWorld.py
+# Created on : 13-07-2019  06:05:07 PM
+# Author       : Nivesh-GC
+
 # Udemy: Complete Python BootCamp
 # https://www.youtube.com/watch?v=DjEuROpsvp4
 # Setting up a Python Development Environment in Atom
-# Last Edited: 14.07.2019
+
 print('Hello World of Atom')
 
 a = 50
