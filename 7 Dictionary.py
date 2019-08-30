@@ -1,6 +1,8 @@
-# Date: 21.07.2019
+# Document  : 7 Dictionary.py
+# Created on : 21-07-2019,  03:33:12 PM
+# Author       : Nivesh-GC
+
 # Udemy: Complete Python BootCamp
-# Last Edited: 16.07.2019
 
 # *************Dictionaries*************
 # These are unordered mappings for storing objects
