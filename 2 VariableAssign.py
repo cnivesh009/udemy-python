@@ -1,5 +1,8 @@
+# Document  : 2 VariableAssign.py
+# Created on : 13-07-2019  06:05:24 PM
+# Author       : Nivesh-GC
+
 # Udemy: Complete Python BootCamp
-# Last Edited: 14.07.2019
 
 print('Hello World of Atom')
 a = 100
