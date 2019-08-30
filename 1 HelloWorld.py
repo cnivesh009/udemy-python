@@ -7,7 +7,6 @@
 # Setting up a Python Development Environment in Atom
 
 print('Hello World of Atom')
-
 a = 50
 b = 50
 c = a + b
