@@ -1,6 +1,8 @@
-# Date: 15.07.2019
+# Document  : 6 Lists.py
+# Created on : 16-07-2019,  07:04:56 PM
+# Author       : Nivesh-GC
+
 # Udemy: Complete Python BootCamp
-# Last Edited: 16.07.2019
 
 # *************list*************
 mylist_1 = ['one', 'two', 'three']
