@@ -24,7 +24,6 @@ print("\n")
 print(x.lower())
 
 # ****************************String format****************************
-
 print('\n****************String format****************')
 print('This is a string {}'.format("THAT IS INSERTED"))
 print('\nWhat does {} {} {}{}'.format('''the''', 'fox', "say", '?'))
