@@ -1,6 +1,6 @@
 # Document  : 5 StringProperties.py
-# Created on : 16-07-2019, 12:12:26 AM
-# Author       : Nivesh-GC
+# Created on: 16-07-2019, 12:12:26 AM
+# Author    : Nivesh-GC
 
 # Udemy: Complete Python BootCamp
 
