@@ -1,6 +1,6 @@
 # Document  : 7 Dictionary.py
-# Created on : 21-07-2019, 03:33:12 PM
-# Author       : Nivesh-GC
+# Created on: 21-07-2019, 03:33:12 PM
+# Author    : Nivesh-GC
 
 # Udemy: Complete Python BootCamp
 
