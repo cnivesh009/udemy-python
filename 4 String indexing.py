@@ -5,6 +5,5 @@
 # Udemy: Complete Python BootCamp
 
 # Displays r from the string 'Hello world'
-
 print('''Hello world'''[-3])  # Displays r from the string 'Hello world'
 print('tinker'[1:4])
