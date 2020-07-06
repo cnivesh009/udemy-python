@@ -33,6 +33,7 @@ print('\n *********Sorting*********')
 new_list = ['a', 'e', 'i', 'o', 'u', 'z', 'c']
 num_list = [15, 10, 100, 1000, 101, 100]
 
+# unsorted list
 print("\nUnsorted List: ")
 print(new_list, "\t", num_list)
 
