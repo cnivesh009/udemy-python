@@ -32,6 +32,5 @@ print("\n19. d[: :] --> %s \n" % d[::])
 # str[start :stop :step_size]
 print("\n20. d[0: 9: 2] --> %s \n" % d[0: 9:2])
 
-
 # Reverse of a string
 print("\n21. d[: : -1] --> %s \n" % d[:: -1])
