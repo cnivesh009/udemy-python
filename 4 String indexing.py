@@ -1,6 +1,6 @@
 # Document  : 4 String indexing.py
-# Created on : 15-07-2019, 09:31:27 PM
-# Author       : Nivesh-GC
+# Created on: 15-07-2019, 09:31:27 PM
+# Author    : Nivesh-GC
 
 # Udemy: Complete Python BootCamp
 
