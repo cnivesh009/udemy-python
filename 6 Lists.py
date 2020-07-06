@@ -39,7 +39,6 @@ print(new_list, "\t", num_list)
 # .sort() does not return anything
 new_list.sort()
 num_list.sort()
-
 print("\nSorted List: ")
 print(new_list, '''\t''', num_list)
 print([1, 'car', 3.14])
